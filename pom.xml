@@ -41,6 +41,7 @@
         <module>spring-boot-web-thymeleaf</module>
         <module>spring-boot-webflux</module>
     <module>spring-boot-prometheus-vacual</module>
+    <module>spring-boot-micrometer-vacual</module>
   </modules>
 
     <build>
